@@ -1,0 +1,160 @@
+{
+    "Tomato_Bacterial_spot": {
+        "display_name": "Tomato Bacterial Spot",
+        "cause": "A bacterial disease that spreads through infected seeds, splashing water, and humid conditions.",
+        "symptoms": [
+            "Small dark brown or black spots on leaves",
+            "Yellowing around the spots",
+            "Spots may appear on stems and fruits"
+        ],
+        "recommendations": [
+            "Remove and destroy infected leaves to reduce spread.",
+            "Avoid overhead watering because splashing water spreads bacteria.",
+            "Use disease-free seeds or seedlings.",
+            "Maintain proper spacing between plants for airflow.",
+            "Use copper-based bactericide only as per local agricultural guidance."
+        ]
+    },
+    "Tomato_Early_blight": {
+        "display_name": "Tomato Early Blight",
+        "cause": "A fungal disease commonly caused by Alternaria species, often favored by warm and humid conditions.",
+        "symptoms": [
+            "Brown circular spots with concentric rings",
+            "Lower leaves become yellow and dry",
+            "Disease often starts from older leaves"
+        ],
+        "recommendations": [
+            "Remove affected lower leaves immediately.",
+            "Avoid wetting leaves while watering.",
+            "Use mulch to prevent soil splash.",
+            "Improve spacing and airflow.",
+            "Apply recommended fungicide only after expert/local guidance."
+        ]
+    },
+    "Tomato_Late_blight": {
+        "display_name": "Tomato Late Blight",
+        "cause": "A serious water-mold disease favored by cool, wet, and humid weather.",
+        "symptoms": [
+            "Large irregular dark patches on leaves",
+            "White mold-like growth may appear under leaves",
+            "Leaves and stems may collapse quickly"
+        ],
+        "recommendations": [
+            "Remove infected plants quickly because this disease spreads fast.",
+            "Avoid overhead irrigation.",
+            "Keep the field well-ventilated.",
+            "Do not compost infected plant material.",
+            "Consult an agriculture expert for suitable fungicide treatment."
+        ]
+    },
+    "Tomato_Leaf_Mold": {
+        "display_name": "Tomato Leaf Mold",
+        "cause": "A fungal disease that develops mainly in high humidity and poor air circulation.",
+        "symptoms": [
+            "Yellow patches on upper leaf surface",
+            "Olive-green or gray mold under leaves",
+            "Leaves may curl, dry, and drop"
+        ],
+        "recommendations": [
+            "Reduce humidity around plants.",
+            "Increase spacing and ventilation.",
+            "Remove infected leaves.",
+            "Water at the base, not on leaves.",
+            "Use resistant varieties where possible."
+        ]
+    },
+    "Tomato_Septoria_leaf_spot": {
+        "display_name": "Tomato Septoria Leaf Spot",
+        "cause": "A fungal leaf spot disease that spreads through rain splash, infected debris, and humid weather.",
+        "symptoms": [
+            "Many small circular spots on leaves",
+            "Spots often have gray centers and dark borders",
+            "Lower leaves turn yellow and drop"
+        ],
+        "recommendations": [
+            "Remove affected leaves and plant debris.",
+            "Avoid overhead watering.",
+            "Use mulch to reduce soil splash.",
+            "Maintain good spacing for airflow.",
+            "Rotate crops and avoid planting tomato repeatedly in the same soil."
+        ]
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite": {
+        "display_name": "Tomato Spider Mites / Two-Spotted Spider Mite",
+        "cause": "A pest problem caused by tiny mites that suck plant sap, usually worse in hot and dry conditions.",
+        "symptoms": [
+            "Tiny yellow or white specks on leaves",
+            "Fine webbing under leaves",
+            "Leaves may dry and look dusty"
+        ],
+        "recommendations": [
+            "Spray leaves with water to reduce mite population.",
+            "Remove badly affected leaves.",
+            "Avoid excessive dry conditions.",
+            "Encourage natural predators where possible.",
+            "Use miticide only with expert/local agricultural advice."
+        ]
+    },
+    "Tomato__Target_Spot": {
+        "display_name": "Tomato Target Spot",
+        "cause": "A fungal disease that causes target-like lesions and spreads in warm, wet conditions.",
+        "symptoms": [
+            "Brown spots with ring-like pattern",
+            "Leaf yellowing and defoliation",
+            "Can also affect stems and fruits"
+        ],
+        "recommendations": [
+            "Remove infected leaves.",
+            "Improve airflow through pruning and spacing.",
+            "Avoid overhead watering.",
+            "Keep field clean from infected debris.",
+            "Use approved fungicide only with agricultural guidance."
+        ]
+    },
+    "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+        "display_name": "Tomato Yellow Leaf Curl Virus",
+        "cause": "A viral disease mainly spread by whiteflies.",
+        "symptoms": [
+            "Leaves curl upward",
+            "Yellowing of leaves",
+            "Stunted plant growth and reduced fruiting"
+        ],
+        "recommendations": [
+            "Remove severely infected plants to reduce spread.",
+            "Control whiteflies using yellow sticky traps and recommended practices.",
+            "Use insect-proof netting in nursery areas.",
+            "Remove weeds that may host whiteflies.",
+            "Use resistant tomato varieties where available."
+        ]
+    },
+    "Tomato__Tomato_mosaic_virus": {
+        "display_name": "Tomato Mosaic Virus",
+        "cause": "A viral disease that can spread through infected tools, hands, seeds, or plant contact.",
+        "symptoms": [
+            "Mosaic pattern of light and dark green on leaves",
+            "Leaf curling or distortion",
+            "Reduced plant growth and poor fruit quality"
+        ],
+        "recommendations": [
+            "Remove infected plants carefully.",
+            "Disinfect tools and wash hands after touching infected plants.",
+            "Avoid smoking or tobacco contact near tomato plants.",
+            "Use certified disease-free seeds.",
+            "Avoid working with plants when leaves are wet."
+        ]
+    },
+    "Tomato_healthy": {
+        "display_name": "Tomato Healthy",
+        "cause": "No disease detected by the model.",
+        "symptoms": [
+            "Leaf appears normal and healthy"
+        ],
+        "recommendations": [
+            "Continue regular monitoring.",
+            "Water at the base of the plant.",
+            "Maintain proper spacing and sunlight.",
+            "Remove weeds and dead leaves.",
+            "Use preventive care instead of unnecessary chemical treatment."
+        ]
+    }
+}
