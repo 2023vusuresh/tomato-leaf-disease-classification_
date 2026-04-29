@@ -23,7 +23,7 @@ st.set_page_config(
 # SETTINGS
 # ============================================================
 MODEL_PATH = "model.keras"
-MODEL_URL = "https://drive.google.com/uc?id=18QFKZwrzdHLfIYEtfo-0yLg77KcO-ge5"
+MODEL_URL = "https://drive.google.com/file/d/1yFu154R2rA_fXcIrGE7eIC74FyfatT0o/view?usp=drive_link"
 RECOMMENDATION_PATH = "recommendations.json"
 
 IMAGE_SIZE = 128
